@@ -1,0 +1,11 @@
+= Version 0.4 =
+* First Commit
+
+= Version 0.5 =
+* Updated the credits handler section
+* Updated the screenshot
+* Added the translation option
+* Added readme.txt and changelog.txt
+
+= Version 0.6 =
+* Updated the translation
