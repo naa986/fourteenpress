@@ -9,3 +9,6 @@
 
 = Version 0.6 =
 * Updated the translation
+
+= Version 0.7 =
+* Fourteenpress now shows the last modified date of a post
